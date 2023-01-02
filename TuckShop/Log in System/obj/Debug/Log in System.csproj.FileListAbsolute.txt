@@ -1,0 +1,45 @@
+G:\Projects\Software Development\Test\Log in System\Log in System\bin\Debug\LoginDB.mdf
+G:\Projects\Software Development\Test\Log in System\Log in System\bin\Debug\LoginDB_log.ldf
+G:\Projects\Software Development\Test\Log in System\Log in System\bin\Debug\Log in System.exe.config
+G:\Projects\Software Development\Test\Log in System\Log in System\bin\Debug\Log in System.exe
+G:\Projects\Software Development\Test\Log in System\Log in System\bin\Debug\Log in System.pdb
+G:\Projects\Software Development\Test\Log in System\Log in System\obj\Debug\Log in System.csproj.AssemblyReference.cache
+G:\Projects\Software Development\Test\Log in System\Log in System\obj\Debug\Log in System.csproj.SuggestedBindingRedirects.cache
+G:\Projects\Software Development\Test\Log in System\Log in System\obj\Debug\Log_in_System.frm_Add_New_User.resources
+G:\Projects\Software Development\Test\Log in System\Log in System\obj\Debug\Log_in_System.frm_Home.resources
+G:\Projects\Software Development\Test\Log in System\Log in System\obj\Debug\Log_in_System.frm_Login.resources
+G:\Projects\Software Development\Test\Log in System\Log in System\obj\Debug\Log_in_System.Properties.Resources.resources
+G:\Projects\Software Development\Test\Log in System\Log in System\obj\Debug\Log in System.csproj.GenerateResource.cache
+G:\Projects\Software Development\Test\Log in System\Log in System\obj\Debug\Log in System.csproj.CoreCompileInputs.cache
+G:\Projects\Software Development\Test\Log in System\Log in System\obj\Debug\Log in System.exe
+G:\Projects\Software Development\Test\Log in System\Log in System\obj\Debug\Log in System.pdb
+C:\Users\shane\Desktop\Log in System\Log in System\bin\Debug\LoginDB.mdf
+C:\Users\shane\Desktop\Log in System\Log in System\bin\Debug\LoginDB_log.ldf
+C:\Users\shane\Desktop\Log in System\Log in System\bin\Debug\Log in System.exe.config
+C:\Users\shane\Desktop\Log in System\Log in System\bin\Debug\Log in System.exe
+C:\Users\shane\Desktop\Log in System\Log in System\bin\Debug\Log in System.pdb
+C:\Users\shane\Desktop\Log in System\Log in System\obj\Debug\Log in System.csproj.AssemblyReference.cache
+C:\Users\shane\Desktop\Log in System\Log in System\obj\Debug\Log in System.csproj.SuggestedBindingRedirects.cache
+C:\Users\shane\Desktop\Log in System\Log in System\obj\Debug\Log_in_System.frm_Add_New_User.resources
+C:\Users\shane\Desktop\Log in System\Log in System\obj\Debug\Log_in_System.frm_Home.resources
+C:\Users\shane\Desktop\Log in System\Log in System\obj\Debug\Log_in_System.frm_Login.resources
+C:\Users\shane\Desktop\Log in System\Log in System\obj\Debug\Log_in_System.Properties.Resources.resources
+C:\Users\shane\Desktop\Log in System\Log in System\obj\Debug\Log in System.csproj.GenerateResource.cache
+C:\Users\shane\Desktop\Log in System\Log in System\obj\Debug\Log in System.csproj.CoreCompileInputs.cache
+C:\Users\shane\Desktop\Log in System\Log in System\obj\Debug\Log in System.exe
+C:\Users\shane\Desktop\Log in System\Log in System\obj\Debug\Log in System.pdb
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\bin\Debug\LoginDB.mdf
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\bin\Debug\LoginDB_log.ldf
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\bin\Debug\Log in System.exe.config
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\bin\Debug\Log in System.exe
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\bin\Debug\Log in System.pdb
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log in System.csproj.AssemblyReference.cache
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log in System.csproj.SuggestedBindingRedirects.cache
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Add_New_User.resources
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Home.resources
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Login.resources
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.Properties.Resources.resources
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log in System.csproj.GenerateResource.cache
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log in System.csproj.CoreCompileInputs.cache
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log in System.exe
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log in System.pdb

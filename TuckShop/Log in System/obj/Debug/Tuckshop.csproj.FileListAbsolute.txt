@@ -1,0 +1,93 @@
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\bin\Debug\LoginDB.mdf
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\bin\Debug\LoginDB_log.ldf
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\bin\Debug\Log in System.exe.config
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\bin\Debug\Log in System.exe
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\bin\Debug\Log in System.pdb
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.AssemblyReference.cache
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Add_New_User.resources
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Home.resources
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Login.resources
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.Properties.Resources.resources
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.GenerateResource.cache
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.CoreCompileInputs.cache
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log in System.exe
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log in System.pdb
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.Register.resources
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.MakeOrder.resources
+C:\Users\shane\Desktop\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.DisplayOrder.resources
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\bin\Debug\LoginDB.mdf
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\bin\Debug\LoginDB_log.ldf
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\bin\Debug\Log in System.exe.config
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\bin\Debug\Log in System.exe
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\bin\Debug\Log in System.pdb
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.AssemblyReference.cache
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Add_New_User.resources
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.DisplayOrder.resources
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Home.resources
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Login.resources
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.MakeOrder.resources
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.Properties.Resources.resources
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.Register.resources
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.GenerateResource.cache
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.CoreCompileInputs.cache
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Log in System.exe
+C:\Users\pitso\OneDrive\Desktop\Donald\PRG271_MileStone2\PRG271_MileStone2\Log in System\obj\Debug\Log in System.pdb
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\bin\Debug\LoginDB.mdf
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\bin\Debug\LoginDB_log.ldf
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\bin\Debug\Log in System.exe.config
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\bin\Debug\Log in System.exe
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\bin\Debug\Log in System.pdb
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.AssemblyReference.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Add_New_User.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.DisplayOrder.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Home.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Login.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.MakeOrder.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.Properties.Resources.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.Register.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.GenerateResource.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.CoreCompileInputs.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Log in System.exe
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Log in System.pdb
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG271_MileStone2\Log in System\obj\Debug\Log_in_System.SearchItem.resources
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\bin\Debug\LoginDB.mdf
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\bin\Debug\LoginDB_log.ldf
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\bin\Debug\Log in System.exe.config
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\bin\Debug\Log in System.exe
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\bin\Debug\Log in System.pdb
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.AssemblyReference.cache
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Add_New_User.resources
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.DisplayOrder.resources
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Home.resources
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Login.resources
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.MakeOrder.resources
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.Properties.Resources.resources
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.Register.resources
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.SearchItem.resources
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.GenerateResource.cache
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.CoreCompileInputs.cache
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Log in System.exe
+C:\Users\shane\Desktop\PRG2781_MileStone2\Log in System\obj\Debug\Log in System.pdb
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\bin\Debug\LoginDB.mdf
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\bin\Debug\LoginDB_log.ldf
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\bin\Debug\Log in System.exe.config
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\bin\Debug\Log in System.exe
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\bin\Debug\Log in System.pdb
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.AssemblyReference.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Add_New_User.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.DisplayOrder.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Home.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.frm_Login.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.MakeOrder.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.Properties.Resources.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.Register.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Log_in_System.SearchItem.resources
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.GenerateResource.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Tuckshop.csproj.CoreCompileInputs.cache
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Log in System.exe
+C:\Users\Donald Modiba\Desktop\Belgium Campus\Bachelor of Information Technology\Assignments\PRG\271\PRG2781_MileStone2\Log in System\obj\Debug\Log in System.pdb
